@@ -252,6 +252,36 @@ header .inbody .navbar-brand h1 {
 
 /*********************************************
 *
+                    Staff
+*
+**********************************************/
+
+#staff {
+    background-color: #E4D29D;
+    background-image: linear-gradient(to bottom, #E4D29D, #CDAE50);
+}
+
+.employee {
+    margin: 10px 0;
+}
+
+.employee h3 {
+    font-weight: 600;
+    font-size: 1.2em;
+    color: #6F4E36;
+    padding-bottom: 5px;
+}
+
+.employee p {
+    font-size: .8em;
+}
+
+.employee img {
+    width: 100%;
+}
+
+/*********************************************
+*
                     Footer
 *
 **********************************************/
